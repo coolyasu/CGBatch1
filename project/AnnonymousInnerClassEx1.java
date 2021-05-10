@@ -12,7 +12,7 @@ public class AnnonymousInnerClassEx1 {
 		 
 		 */
 		//Anonymous class
-//Anonymous class demo
+//ano class demo
 		Greet g = new Greet() {
 
 			@Override
